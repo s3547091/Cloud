@@ -1,0 +1,40 @@
+body{
+	width:1000px;margin:auto;
+	}
+
+.logo{
+	float:left;
+	}
+	h1{
+		color: black;
+	}
+
+header{
+	border:1px solid red;
+	height:100px;
+	background-color:#36f5df
+	}
+
+nav#local{
+	border:1px solid red;
+	background-color:#36f5df
+	}
+
+nav#dropdown{
+	border:2px solid green;
+	background-color:#36f5df
+	}
+	
+main{
+	border:1px solid red;
+	background-color:#F1948A  
+    }
+
+footer{
+	border:1px solid blue;
+	background-color:#36f5df
+	}
+ 
+img.imagemap{
+	display:block;margin:10px auto;
+	}
